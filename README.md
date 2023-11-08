@@ -8,7 +8,6 @@ This repository stores 695 experimental data and 3,974 finite element data for s
 
 
 ## References
-
 . Meng, L. Gardner, Behavior and design of normal-and high-strength steel shs and rhs columns, J Struct Eng 146 (11) (2020) 04020227.
 - G. Sedlacek, B. Kuhn, J. Rondal, P. Boeraeve, Buckling behaviour of hot-formed shs in high strength steel grade e-460, Tech. rep., Comite international pour le developpement et l’etude de la construction tubulaire, Cidect report 2T-2/99, Altendorf, Switzerland (1999)
 - JL. Ma, TM. Chan, B. Young, Experimental investigation on stub-column behavior of cold-formed high-strength steel tubular sections, J Struct Eng 142 (5) (2016) 04015174.
