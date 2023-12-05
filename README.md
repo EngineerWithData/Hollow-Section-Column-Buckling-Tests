@@ -3,7 +3,7 @@
 </h1>
 
 ## What is inside
-This repository stores 695 experimental data and 3,974 finite element data for steel square hollow sections (SHS) and rectangular hollow sections (RHS) members under compression.
+This repository stores 695 experimental data and 3,974 finite element data for steel square hollow sections (SHS) and rectangular hollow sections (RHS) members under compression. The data includes buckling tests on both hot-rolled and cold-formed columns.
 
 
 
