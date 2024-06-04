@@ -4,8 +4,8 @@ authors:
 - family-names: "Koh"
   given-names: "Hyeyoung"
   orcid: "https://orcid.org/0000-0002-5795-4417'
-title: "HollowSectionColumnBucklingTests"
+title: "Hollow-Section-Column-Buckling-Tests"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2024-06-04
-url: "https://github.com/EngineerWithData/HollowSectionColumnBucklingTests"
+url: "https://github.com/EngineerWithData/Hollow-Section-Column-Buckling-Tests"
