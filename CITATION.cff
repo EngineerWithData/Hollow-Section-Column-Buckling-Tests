@@ -9,9 +9,3 @@ version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2024-06-04
 url: "https://github.com/EngineerWithData/HollowSectionColumnBucklingTests"
-keywords:
-  - Data-driven analysis
-  - Steel hollow section columns
-  - Interpolation
-  - High-strength steel
-  - Cold-formed and hot-rolled steel
